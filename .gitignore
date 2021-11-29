@@ -8,3 +8,6 @@ cypress/videos
 .yalc
 yalc.lock
 cypress/videos
+
+# Local Netlify folder
+.netlify
